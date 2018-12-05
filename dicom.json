@@ -3113,6 +3113,8 @@
         "DataSetTrailingPadding": "FFFCFFFC",
         "StartOfItem": "FFFEE000",
         "EndOfItems": "FFFEE00D",
-        "EndOfSequence": "FFFEE0DD"
+        "EndOfSequence": "FFFEE0DD",
+        "RetrieveURL": "00081190",
+        "WarningReason": "00081196"
     }
 }
